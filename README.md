@@ -1,2 +1,17 @@
-# shopping-price-finder
-Personal shopping price comparison tool built with Python and Streamlit
+# Shopping Price Finder
+
+ネットショッピング商品の最安値を探すための個人用ツール
+
+## 目的
+
+欲しい商品の価格を複数サイトで比較する
+
+## 今後の予定
+
+- 商品名検索
+- Amazon検索
+- 楽天検索
+- Yahooショッピング検索
+- 検索履歴保存
+- 価格履歴グラフ
+- 画像検索
