@@ -26,3 +26,9 @@
 - Streamlit導入
 - 初回アプリ作成
 - GitHub公開
+
+## Git設定
+
+git config --global user.name "SAO"
+
+git config --global user.email "291765915+limi0407@users.noreply.github.com"
