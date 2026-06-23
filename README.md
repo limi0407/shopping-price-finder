@@ -16,6 +16,38 @@
 - 価格履歴グラフ
 - 画像検索
 
+## 今後の機能候補
+
+- [ ] 検索履歴保存
+- [ ] お気に入り登録
+- [ ] 商品画像検索
+- [ ] 商品URL貼り付け対応
+- [ ] 最安値比較
+- [ ] Amazon・楽天・Yahoo以外のショップ対応
+
+## 学習メモ
+
+### Git基本コマンド
+
+状態確認
+
+git status
+
+コミット対象へ追加
+
+git add .
+
+コミット
+
+git commit -m "メッセージ"
+
+GitHubへ反映
+
+git push
+
+### Streamlit起動
+
+python -m streamlit run app.py
 
 ## 作業履歴
 
